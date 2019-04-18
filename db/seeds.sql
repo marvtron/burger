@@ -1,5 +1,21 @@
-INSERT INTO burgers (burger_name) VALUES ('Big Smack');
-INSERT INTO burgers (burger_name) VALUES ('Wopper');
-INSERT INTO burgers (burger_name) VALUES ('Double Dime Pounder');
-INSERT INTO burgers (burger_name) VALUES ('Royale');
-INSERT INTO burgers (burger_name) VALUES ('Battered Cod');
+INSERT INTO burgers (burger_name) VALUES ('Texas Chainsaw Massa-Curd Burger');
+INSERT INTO burgers (burger_name) VALUES ('The Final Kraut Down Burger');
+INSERT INTO burgers (burger_name) VALUES ('She’s a Super Leek Burger');
+INSERT INTO burgers (burger_name) VALUES ('Let’s Give ‘Em Something Shiitake ‘Bout Burger');
+INSERT INTO burgers (burger_name) VALUES ('I Fought the Slaw Burger (and the Slaw Won)');
+INSERT INTO burgers (burger_name) VALUES ('Kales From the Crypt Burger');
+INSERT INTO burgers (burger_name) VALUES ('Itsy Bitsy Teeny Weenie Yellow Polka Dot Zucchini Burger');
+INSERT INTO burgers (burger_name) VALUES ('Foot Feta-ish Burger');
+INSERT INTO burgers (burger_name) VALUES ('Bohemian Radishy Burger');
+INSERT INTO burgers (burger_name) VALUES ('We’re Here, We’re Gruyere, Get Used to It Burger');
+INSERT INTO burgers (burger_name) VALUES ('Foot Feta-ish Burger');
+INSERT INTO burgers (burger_name) VALUES ('Sweet Chili O’Mine Burger');
+INSERT INTO burgers (burger_name) VALUES ('Little Swiss Bunshine Burger');
+INSERT INTO burgers (burger_name) VALUES ('Poutine - On the Ritz Burger');
+INSERT INTO burgers (burger_name) VALUES ('Pepper Don’t Preach Burger');
+INSERT INTO burgers (burger_name) VALUES ('Sweet Home Avocado Burger');
+INSERT INTO burgers (burger_name) VALUES ('Pablano Picasso Burger');
+INSERT INTO burgers (burger_name) VALUES ('It’s Fun to Eat at the rYeMCA Burger');
+INSERT INTO burgers (burger_name) VALUES ('The Cauliflower’s Cumin From Inside the House Burger');
+INSERT INTO burgers (burger_name) VALUES ('Grandpa Muenster Burger');
+
