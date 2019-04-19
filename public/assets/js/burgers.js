@@ -14,7 +14,7 @@ $(function() {
         })
 
         .then(function() {
-            //console.log("changed devour to", true);
+            console.log("changed devour to", true);
             location.reload();
         });
     });
@@ -23,7 +23,7 @@ $(function() {
 $(".create-form").on("submit", function(event) {
     event.preventDefault();
 
-    var name = $("[name=burger-name]").val().trim();
+    var name = $("#name").val().trim();
 
     if(name !== "") {
         var newBurger = {
@@ -37,11 +37,12 @@ $(".create-form").on("submit", function(event) {
         })
 
         .then(function() {
-            //console.log("created new burger!");
+            console.log("created new burger!");
             location.reload();
         });
 
     } else {
+        console.log("didnt work");
         $("[name=burger-name]").val("");
     }
 });
